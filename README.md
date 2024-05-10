@@ -16,26 +16,30 @@ HermesAI is an AI-powered chatbot designed to make learning a new language an en
 ## Getting Started:
 
 1. **Clone the repository:**
+   
    ```bash
    git clone https://github.com/your-username/hermesai.git
    ```
 
-2. **Set up your Google API Key:**
+3. **Set up your Google API Key:**
 - Obtain your API key from the [Google AI Studio](https://aistudio.google.com/app).
 - Set the `GOOGLE_API_KEY` environment variable:
+  
   ```bash
   export GOOGLE_API_KEY='your_api_key_here'
   ```
 
-3. **Install the Python SDK:**
+3. **Install the Python SDK:**  
 - The Python SDK for the Gemini API, is contained in the **`google-generativeai package`**. Install the dependency using pip:
+    
   ```bash
   pip install -q -U google-generativeai
   ```
 
 4. **Run the Chatbot 🤖:**
+   
    ```bash
-    python chatbot.py
+   python chatbot.py
    ```
 
 ## Usage:
