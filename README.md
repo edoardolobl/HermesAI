@@ -1,7 +1,7 @@
 # HermesAI: Your Personalized Language Learning Companion 🌍📚
 
 <p align="center">
-  <img src="assets/hermesAI.png" alt="HermesAI Logo" title="HermesAI" width="35%" height="35%">
+  <img src="assets/hermesAI_thumb.png" alt="HermesAI Logo" title="HermesAI" width="60%" height="60%">
 </p>
 
 HermesAI is an AI-powered chatbot designed to make learning a new language an engaging and personalized experience. Like the mythological messenger Hermes, our AI swiftly guides you on your language acquisition journey!  
